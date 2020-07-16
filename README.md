@@ -1,8 +1,11 @@
 # Jobs to be Done:
 
 pull 10k urls 
+
 filter to relevant tickers (mid-large cap stocks in the US?)
+
 get filing summary urls from SEC
+
 pull "reports" from filing summary 
 
 parse income statement
