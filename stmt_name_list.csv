@@ -1,58 +1,146 @@
 ,0
-0,condensed consolidated statements of changes in stockholders' equity
-1,consolidated balance sheet
-2,consolidated balance sheet (parenthetical)
-3,consolidated balance sheets
-4,consolidated balance sheets (parenthetical)
-5,consolidated balance sheets consolidated balance sheet parenthetical
-6,consolidated balance sheets parenthetical
-7,consolidated statement of cash flows
-8,consolidated statement of changes in stockholders' equity (deficit)
-9,consolidated statement of comprehensive income (loss)
-10,consolidated statement of operations
-11,consolidated statement of shareholders' equity
-12,consolidated statement of stockholders equity paranthetical
-13,consolidated statement of stockholders equity statement
-14,consolidated statement of stockholders' equity
-15,consolidated statement of stockholders' equity (parenthetical)
-16,consolidated statement of stockholders' equity and comprehensive loss
-17,consolidated statement of stockholders’ deficit
-18,consolidated statements of cash flows
-19,consolidated statements of cash flows (parenthetical)
-20,consolidated statements of cash flows (unaudited)
-21,consolidated statements of changes in equity
-22,consolidated statements of changes in stockholders' equity
-23,consolidated statements of comprehensive income
-24,consolidated statements of comprehensive income (loss)
-25,consolidated statements of comprehensive income (parenthetical)
-26,consolidated statements of comprehensive income (parentheticals)
-27,consolidated statements of comprehensive loss
-28,consolidated statements of earnings
-29,consolidated statements of earnings (parenthetical)
-30,consolidated statements of equity
-31,consolidated statements of income
-32,consolidated statements of operations
-33,consolidated statements of operations and comprehensive income
-34,consolidated statements of operations and comprehensive income (loss)
-35,consolidated statements of operations and comprehensive income (parenthetical)
-36,consolidated statements of operations and comprehensive loss
-37,consolidated statements of stockholders' equity
-38,consolidated statements of stockholders' equity (deficit)
-39,consolidated statements of stockholders' equity (parenthetical)
-40,consolidated statements stockholders' equity
-41,income taxes (schedule of the differences between the tax provision reflected in the consolidated financial statements and the amounts calculated at the federal statutory income tax rate of 35%) (details)
-42,investment in unconsolidated entities
-43,investment in unconsolidated entities (details 1)
-44,investment in unconsolidated entities (details 2)
-45,investment in unconsolidated entities (details 3)
-46,investment in unconsolidated entities (details textual)
-47,investment in unconsolidated entities (details)
-48,investment in unconsolidated entities (tables)
-49,owc pharmaceutical research corp. - consolidated balance sheets
-50,owc pharmaceutical research corp. - consolidated statements comprehensive loss
-51,owc pharmaceutical research corp. - consolidated statements of cash flows
-52,owc pharmaceutical research corp. - consolidated statements of changes in stockholders' equity (deficit)
-53,owc pharmaceutical research corp. - consolidated statements of operations
-54,retirement and other benefit plans - amounts recognized in consolidated balance sheet (details)
-55,risk management and derivatives (schedule of effect of derivative instruments in cash flow hedging relationships on the condensed consolidated statements of earnings) (details)
-56,risk management and derivatives (schedule of fair values of derivative instruments designated as hedging instruments included within the condensed consolidated balance sheet) (details)
+0,condensed consolidated balance sheet
+1,condensed consolidated balance sheet (parenthetical)
+2,condensed consolidated balance sheets
+3,condensed consolidated balance sheets (parenthetical)
+4,condensed consolidated statement of cash flows (unaudited)
+5,condensed consolidated statement of operations (unaudited)
+6,condensed consolidated statement of shareholders' deficit (unaudited)
+7,condensed consolidated statements of cash flows
+8,condensed consolidated statements of changes in stockholders' equity
+9,condensed consolidated statements of operations
+10,consolidated balance sheet
+11,consolidated balance sheet (parenthetical)
+12,consolidated balance sheet (parentheticals)
+13,consolidated balance sheets
+14,consolidated balance sheets (parenthetical)
+15,consolidated balance sheets (parentheticals)
+16,consolidated balance sheets (unaudited)
+17,consolidated balance sheets (unaudited) (parenthetical)
+18,consolidated balance sheets - parenthetical
+19,consolidated balance sheets [parenthetical]
+20,consolidated balance sheets consolidated balance sheet (parenthetical)
+21,consolidated balance sheets consolidated balance sheet parenthetical
+22,consolidated balance sheets parenthetical
+23,consolidated income statements
+24,consolidated statement of cash flows
+25,consolidated statement of changes in shareholders' equity
+26,consolidated statement of changes in stockholders' deficit
+27,consolidated statement of changes in stockholders' equity
+28,consolidated statement of changes in stockholders' equity (deficit)
+29,consolidated statement of comprehensive income
+30,consolidated statement of comprehensive income (loss)
+31,consolidated statement of income
+32,consolidated statement of operations
+33,consolidated statement of shareholders' equity
+34,consolidated statement of shareholders' equity (parenthetical)
+35,consolidated statement of shareholders' equity consolidated statement of shareholders' equity
+36,consolidated statement of stockholder's deficit
+37,consolidated statement of stockholder's deficit (parenthetical)
+38,consolidated statement of stockholders equity paranthetical
+39,consolidated statement of stockholders equity statement
+40,consolidated statement of stockholders' (deficit) (unaudited)
+41,consolidated statement of stockholders' deficit
+42,consolidated statement of stockholders' equity
+43,consolidated statement of stockholders' equity (parenthetical)
+44,consolidated statement of stockholders' equity and comprehensive loss
+45,consolidated statement of stockholders' equity consolidated statement of stockholders' equity (parenthetical)
+46,consolidated statement of stockholders’ deficit
+47,consolidated statements of cash flow
+48,consolidated statements of cash flows
+49,consolidated statements of cash flows (parenthetical)
+50,consolidated statements of cash flows (unaudited)
+51,consolidated statements of cash flows (unuadited)
+52,consolidated statements of cash flows [parenthetical]
+53,consolidated statements of cash flows consolidated statement of cash flows (parenthetical)
+54,consolidated statements of cash flows consolidated statements of cash flows (parenthetical)
+55,consolidated statements of cash flows consolidated statements of cash flows - supplemental disclosures
+56,consolidated statements of change in equity
+57,consolidated statements of changes in equity
+58,consolidated statements of changes in shareholders' equity
+59,consolidated statements of changes in shareholders' equity (deficit)
+60,consolidated statements of changes in shareholders' equity parenthetical
+61,consolidated statements of changes in stockholders deficit
+62,consolidated statements of changes in stockholders' deficit
+63,consolidated statements of changes in stockholders' equity
+64,consolidated statements of changes in stockholders' equity (deficit)
+65,consolidated statements of changes in stockholders' equity (parentheticals)
+66,consolidated statements of changes in stockholders' equity/(deficit)
+67,consolidated statements of comprehensive income
+68,consolidated statements of comprehensive income (loss)
+69,consolidated statements of comprehensive income (loss) (parentheticals)
+70,consolidated statements of comprehensive income (parenthetical)
+71,consolidated statements of comprehensive income (parentheticals)
+72,consolidated statements of comprehensive income consolidated statements of comprehensive income (parenthetical)
+73,consolidated statements of comprehensive income parenthetical
+74,consolidated statements of comprehensive loss
+75,consolidated statements of convertible preferred stock and stockholders' equity
+76,consolidated statements of convertible preferred stock and stockholders' equity (deficit)
+77,consolidated statements of convertible preferred stock and stockholders' equity (parenthetical)
+78,consolidated statements of deficiency (parentheticals)
+79,consolidated statements of earnings
+80,consolidated statements of earnings (loss)
+81,consolidated statements of earnings (parenthetical)
+82,consolidated statements of equity
+83,consolidated statements of income
+84,consolidated statements of income (parenthetical)
+85,consolidated statements of income and comprehensive income
+86,consolidated statements of income and retained earnings
+87,consolidated statements of operations
+88,consolidated statements of operations (parenthetical)
+89,consolidated statements of operations (unaudited)
+90,consolidated statements of operations - parenthetical
+91,consolidated statements of operations and comprehensive (loss) income (parenthetical)
+92,consolidated statements of operations and comprehensive income
+93,consolidated statements of operations and comprehensive income (loss)
+94,consolidated statements of operations and comprehensive income (parenthetical)
+95,consolidated statements of operations and comprehensive loss
+96,consolidated statements of operations and other comprehensive income (loss)
+97,consolidated statements of partners capital
+98,consolidated statements of redeemable convertible preferred stock and stockholders' equity (deficit)
+99,consolidated statements of shareholders' equity
+100,consolidated statements of stockholder's equity
+101,consolidated statements of stockholders deficit
+102,consolidated statements of stockholders equity (deficit)
+103,consolidated statements of stockholders of equity
+104,consolidated statements of stockholders' deficiency (deficit)
+105,consolidated statements of stockholders' deficit
+106,consolidated statements of stockholders' equity
+107,consolidated statements of stockholders' equity (deficiency)
+108,consolidated statements of stockholders' equity (deficit)
+109,consolidated statements of stockholders' equity (deficit) consolidated statements of stockholders' equity (deficit) parenthetical
+110,consolidated statements of stockholders' equity (defict)
+111,consolidated statements of stockholders' equity (parenthetical)
+112,consolidated statements of stockholders??? equity
+113,consolidated statements of stockholders??? equity and temporary equity
+114,consolidated statements stockholders' equity
+115,"frontier digital media group, inc. - condensed consolidated balance sheets"
+116,"frontier digital media group, inc. - condensed consolidated statements of cash flows"
+117,"frontier digital media group, inc. - condensed consolidated statements of operations"
+118,"frontier digital media group, inc. - consolidated statements of changes in stockholders' equity (deficit)"
+119,goldrich mining company consolidated balance sheets
+120,goldrich mining company consolidated statements of cash flows
+121,goldrich mining company consolidated statements of changes in stockholders' (deficit)
+122,goldrich mining company consolidated statements of operations
+123,income taxes (schedule of the differences between the tax provision reflected in the consolidated financial statements and the amounts calculated at the federal statutory income tax rate of 35%) (details)
+124,investment in unconsolidated entities
+125,investment in unconsolidated entities (details 1)
+126,investment in unconsolidated entities (details 2)
+127,investment in unconsolidated entities (details 3)
+128,investment in unconsolidated entities (details textual)
+129,investment in unconsolidated entities (details)
+130,investment in unconsolidated entities (tables)
+131,merger agreement - summary of company's consolidated results of operations (detail)
+132,owc pharmaceutical research corp. - consolidated balance sheets
+133,owc pharmaceutical research corp. - consolidated statements comprehensive loss
+134,owc pharmaceutical research corp. - consolidated statements of cash flows
+135,owc pharmaceutical research corp. - consolidated statements of changes in stockholders' equity (deficit)
+136,owc pharmaceutical research corp. - consolidated statements of operations
+137,retirement and other benefit plans - amounts recognized in consolidated balance sheet (details)
+138,risk management and derivatives (schedule of effect of derivative instruments in cash flow hedging relationships on the condensed consolidated statements of earnings) (details)
+139,risk management and derivatives (schedule of fair values of derivative instruments designated as hedging instruments included within the condensed consolidated balance sheet) (details)
+140,scientific energy inc. - condensed consolidated balance sheets (unaudited)
+141,scientific energy inc.- consolidated statements of operations and comprehensive income (loss)
+142,"scientific energy, inc - condensed consolidated statements of cash flows (unaudited)"
+143,"scientific energy, inc. consolidated statements of changes in stockholders' deficit"
+144,stock-based compensation - summary of stock based compensation expense included in company's consolidated statements of operations (detail)
