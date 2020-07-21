@@ -1,0 +1,165 @@
+,source,metric
+0,consolidated statements of cash flows,Accounts Payable
+1,consolidated statements of cash flows,Accounts payable
+2,consolidated statements of cash flows,Accounts payable and accrued liabilities
+3,consolidated statements of cash flows,"Accounts payable, related parties"
+4,consolidated statements of cash flows,Accounts receivable
+5,consolidated statements of cash flows,Accrual of dividends payable
+6,consolidated statements of cash flows,Accrued expense
+7,consolidated statements of cash flows,Accrued expenses
+8,consolidated statements of cash flows,"Accrued interest, related parties"
+9,consolidated statements of cash flows,Accrued liabilities and other current liabilities
+10,consolidated statements of cash flows,Acquisition of intangible assets
+11,consolidated statements of cash flows,Add: Impairment loss on asset held for sale
+12,consolidated statements of cash flows,AirToken obligation
+13,consolidated statements of cash flows,AirToken refund liability
+14,consolidated statements of cash flows,AirToken refund liability (interest portion)
+15,consolidated statements of cash flows,Amortization
+16,consolidated statements of cash flows,Amortization of patents
+17,consolidated statements of cash flows,Bank overdraft balance
+18,consolidated statements of cash flows,Cash acquired in reverse merger
+19,consolidated statements of cash flows,Cash and cash equivalents at beginning of year
+20,consolidated statements of cash flows,Cash and cash equivalents at end of year
+21,consolidated statements of cash flows,"Cash and cash equivalents, beginning of year"
+22,consolidated statements of cash flows,"Cash and cash equivalents, end of year"
+23,consolidated statements of cash flows,Cash and equivalents at beginning of the period
+24,consolidated statements of cash flows,Cash and equivalents at end of the period
+25,consolidated statements of cash flows,Cash proceeds from interest income
+26,consolidated statements of cash flows,Common stock issued in exchange for services
+27,consolidated statements of cash flows,Common stock issued to consultants
+28,consolidated statements of cash flows,Deferred revenue
+29,consolidated statements of cash flows,Deferred revenue - AirToken project
+30,consolidated statements of cash flows,Depreciation
+31,consolidated statements of cash flows,Depreciation of property and equipment
+32,consolidated statements of cash flows,Disbursements to acquire short-term investments in certificates of deposit
+33,consolidated statements of cash flows,Discharged loan from Director converted to additional paid-in capital
+34,consolidated statements of cash flows,Disposal of fully depreciated property and equipment
+35,consolidated statements of cash flows,Effect of exchange rate changes on cash and cash equivalents
+36,consolidated statements of cash flows,Elimination of noncontrolling interest of Apex Data Center Inc.
+37,consolidated statements of cash flows,Gain on issuance of AirTokens for services
+38,consolidated statements of cash flows,Impairment in carrying amount of patent assets
+39,consolidated statements of cash flows,Impairment of assets
+40,consolidated statements of cash flows,Impairment of digital assets
+41,consolidated statements of cash flows,Income tax payable
+42,consolidated statements of cash flows,Incomet taxes paid
+43,consolidated statements of cash flows,Interest
+44,consolidated statements of cash flows,Interest paid
+45,consolidated statements of cash flows,Issuance of SAFE in satisfaction of accounts payable
+46,consolidated statements of cash flows,Issuance of digital assets as compensation
+47,consolidated statements of cash flows,"Issuance of noncontrolling interest in Certainty Therapeutics, Inc. expensed as a license fee"
+48,consolidated statements of cash flows,Loan from related party
+49,consolidated statements of cash flows,Net Loss including noncontrolling interests
+50,consolidated statements of cash flows,Net cash (used in) provided by financing activities
+51,consolidated statements of cash flows,Net cash (used in) provided by investing activities
+52,consolidated statements of cash flows,Net cash provided by financing activities
+53,consolidated statements of cash flows,Net cash provided by investing activities
+54,consolidated statements of cash flows,Net cash used in investing activities
+55,consolidated statements of cash flows,Net cash used in operating activities
+56,consolidated statements of cash flows,Net change in cash
+57,consolidated statements of cash flows,Net change in cash and cash equivalents
+58,consolidated statements of cash flows,Net effect of recapitalization - reverse merger
+59,consolidated statements of cash flows,Net increase (decrease) in cash and cash equivalents
+60,consolidated statements of cash flows,Net loss
+61,consolidated statements of cash flows,Note receivable issued for settlement of shareholder derivative complaint
+62,consolidated statements of cash flows,Other assets
+63,consolidated statements of cash flows,Other payable
+64,consolidated statements of cash flows,Other receivable
+65,consolidated statements of cash flows,"Payment to notes payable, related parties"
+66,consolidated statements of cash flows,Payroll tax payable
+67,consolidated statements of cash flows,Prepaid expenses and other current and long-term assets
+68,consolidated statements of cash flows,Prepaid expenses and other current assets
+69,consolidated statements of cash flows,Prepaid purchase
+70,consolidated statements of cash flows,Proceeds from convertible notes
+71,consolidated statements of cash flows,Proceeds from disposal of digital assets
+72,consolidated statements of cash flows,Proceeds from exercise of options
+73,consolidated statements of cash flows,Proceeds from exercise of stock options and warrants
+74,consolidated statements of cash flows,Proceeds from loan from director
+75,consolidated statements of cash flows,Proceeds from maturities of short-term investments in certificates of deposit
+76,consolidated statements of cash flows,Proceeds from notes payable
+77,consolidated statements of cash flows,Proceeds from sale of common stock in at-the-market offering
+78,consolidated statements of cash flows,Proceeds from sale of common stock in subsidiary
+79,consolidated statements of cash flows,Proceeds from sale of common stock pursuant to employee stock purchase plan
+80,consolidated statements of cash flows,Proceeds from settlement of shareholder derivative complaint
+81,consolidated statements of cash flows,Proceeds received and establishment of AirToken Obligation
+82,consolidated statements of cash flows,Purchase of property and equipment
+83,consolidated statements of cash flows,Purchase of short-term investments
+84,consolidated statements of cash flows,Purchase of treasury stock
+85,consolidated statements of cash flows,Realized loss (gain) on sale of digital assets
+86,consolidated statements of cash flows,Receipt of digital currencies and establishment of AirToken Obligation
+87,consolidated statements of cash flows,Receivables
+88,consolidated statements of cash flows,Redemption of common stock in subsidiary
+89,consolidated statements of cash flows,Redemption of preferred stock in subsidiary
+90,consolidated statements of cash flows,Restricted stock award compensation to employee pursuant to stock incentive plan
+91,consolidated statements of cash flows,Royalties receivable
+92,consolidated statements of cash flows,Security deposit
+93,consolidated statements of cash flows,Simple agreement for future equity agreements
+94,consolidated statements of cash flows,Stock based compensation
+95,consolidated statements of cash flows,"Stock issued for accrued interest, related party"
+96,consolidated statements of cash flows,"Stock issued for note payable, related party"
+97,consolidated statements of cash flows,Stock issued for services
+98,consolidated statements of cash flows,Stock option compensation to employees and directors
+99,consolidated statements of cash flows,Stock options and warrants issued to consultants
+100,consolidated statements of cash flows,Taxes
+101,consolidated statements of operations,Advertising and promotion
+102,consolidated statements of operations,Amortization
+103,consolidated statements of operations,Amortization of patents
+104,consolidated statements of operations,Basic and Diluted
+105,consolidated statements of operations,Basic and diluted (in Dollars per share)
+106,consolidated statements of operations,Basic and diluted (in Shares)
+107,consolidated statements of operations,Cost of Revenue
+108,consolidated statements of operations,Depreciation
+109,consolidated statements of operations,General and administrative expenses
+110,consolidated statements of operations,"General and administrative expenses (including non-cash share based compensation expenses of $2,888,115 and $4,298,748 respectively)"
+111,consolidated statements of operations,"General, administrative and selling"
+112,consolidated statements of operations,Gross Profit
+113,consolidated statements of operations,Impairment in carrying amount of patent assets (Note 2)
+114,consolidated statements of operations,Impairment of royalty contract
+115,consolidated statements of operations,Income tax expense (benefit) - Current
+116,consolidated statements of operations,"Interest expense, related party"
+117,consolidated statements of operations,Interest expenses
+118,consolidated statements of operations,Interest income
+119,consolidated statements of operations,"Inventor royalties, contingent legal fees, litigation and licensing expenses"
+120,consolidated statements of operations,Less: Net loss attributable to noncontrolling interest
+121,consolidated statements of operations,Less: Net loss attributable to noncontrolling interests
+122,consolidated statements of operations,Loss Before Income Taxes
+123,consolidated statements of operations,Loss before income taxes
+124,consolidated statements of operations,Loss before other expense
+125,consolidated statements of operations,Loss from operations
+126,consolidated statements of operations,Loss on liquidation of subsidiary
+127,consolidated statements of operations,"Loss per share, basic and fully diluted"
+128,consolidated statements of operations,Net Loss attributable to Apex Resources Inc.
+129,consolidated statements of operations,Net Loss from Operations
+130,consolidated statements of operations,Net Loss including noncontrolling interests
+131,consolidated statements of operations,Net loss
+132,consolidated statements of operations,Net loss attributable to common stockholders
+133,consolidated statements of operations,Other expense
+134,consolidated statements of operations,Provision for income taxes (Note 6)
+135,consolidated statements of operations,Research and development
+136,consolidated statements of operations,"Research and development expenses (including non-cash share based compensation expenses of $2,825,630 and $4,596,866, respectively)"
+137,consolidated statements of operations,Revenue
+138,consolidated statements of operations,Revenue - royalties
+139,consolidated statements of operations,Total Operating Expenses
+140,consolidated statements of operations,Total Other Income (Expense)
+141,consolidated statements of operations,Total operating costs and expenses
+142,consolidated statements of operations,Total operating expenses
+143,consolidated statements of operations,Total other expense
+144,consolidated statements of operations,Weighted average number of shares outstanding - Basic and fully diluted
+145,consolidated statements of operations (parentheticals),Non-cash share-based compensation expenses
+146,consolidated statements of operations (parentheticals),Research and Development Expense [Member]
+147,consolidated statements of operations (parentheticals),"Selling, General and Administrative Expenses [Member]"
+148,consolidated statements of operations and comprehensive loss,Foreign currency translation adjustment
+149,consolidated statements of operations and comprehensive loss,Gain on AirToken issuance for services
+150,consolidated statements of operations and comprehensive loss,Impairment of digital assets
+151,consolidated statements of operations and comprehensive loss,Income tax benefit (expense)
+152,consolidated statements of operations and comprehensive loss,"Interest (expense) income, net"
+153,consolidated statements of operations and comprehensive loss,Loss before income taxes
+154,consolidated statements of operations and comprehensive loss,Loss from operations
+155,consolidated statements of operations and comprehensive loss,Net loss
+156,consolidated statements of operations and comprehensive loss,"Net loss attributable to CarrierEQ, Inc."
+157,consolidated statements of operations and comprehensive loss,Net loss attributable to non-controlling interest
+158,consolidated statements of operations and comprehensive loss,"Other income, net"
+159,consolidated statements of operations and comprehensive loss,Realized (loss) gain on sale of digital assets
+160,consolidated statements of operations and comprehensive loss,Revenue
+161,consolidated statements of operations and comprehensive loss,"Selling, general and administrative"
+162,consolidated statements of operations and comprehensive loss,Total comprehensive loss
+163,consolidated statements of operations and comprehensive loss,Total operating expenses
