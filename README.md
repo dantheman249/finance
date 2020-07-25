@@ -1,40 +1,5 @@
-# Jobs to be Done:
+# Repo Overview as of 07/25/2020:
 
-pull 10k urls 
+Goal: Produce a spreadsheet with valuations of the sp500 and expected IRR forecasts so we can buy "cheap" stocks (growth or earnings)
 
-filter to relevant tickers (mid-large cap stocks in the US?)
-
-get filing summary urls from SEC
-
-pull "reports" from filing summary 
-
-parse income statement
-
-parse balance sheet
-
-parse statement of cash flows 
-
-add dividend and stock split history 
-
-assemble time series data set for each stock
-
-build discounted cash flow calcuation
-
-calculate intrinsic values
-
-build stock screener (based off value investing principles (consistent revenue growth, cheap earnings, consistent dividends))
-
-build backtest against sp500 (find strategy that performs > market level)
-
-set up daily alerting for stocks with good deals 
-
-build/outsource tool/visualizations to analyze performance
-
-    - compare performance against sp500
-    
-    - report dividend income
-    
-    - asset allocation 
-    
-    - metrics on portfolio (p/e ratio, dividend yield, etc.)
-
+Main file is "current_main" which parses and compiles text files from SEC website by quarter to generate ticker level dataset.
