@@ -1,6 +1,6 @@
 # Repo Overview as of 07/25/2020:
 
-Main task to do: improve data coverage and implement logic for missing data, then we can value the sp500 
+Main task to do: improve data coverage, calculate more avgs/multiples/forecasts, improve code readibility/scalability.
 
 Short Term Goal: Produce a spreadsheet with valuations of the sp500 and expected IRR forecasts so we can buy "cheap" stocks (growth or earnings)
 
